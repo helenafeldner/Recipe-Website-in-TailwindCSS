@@ -8,7 +8,7 @@ This project features a navigation bar with icons, recipe listings, and a clean,
 ## 🏃 How to Run
 
 ### 1. Install dependencies (if you haven’t already)
-Node_modules:
+Node modules:
 ```bash
 npm install
 ```
