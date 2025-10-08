@@ -33,6 +33,21 @@ This will compile your Tailwind CSS into the project so styles are applied.
 - Clean design using Tailwind CSS utilities
 
 ## 🖼 Example Screenshots
+<table>
+  <tr>
+    <th>Large screen view</th>
+    <th>Small screen view</th>
+  </tr>
+  <tr>
+    <td>
+      <img height="600" alt="large-screen" src="https://github.com/user-attachments/assets/4d4e6f92-058d-4802-972f-072845d25dc6" />
+    </td>
+    <td>
+      <img height="600" alt="small-screen" src="https://github.com/user-attachments/assets/fbdfae5a-f055-4ad2-acfa-1cdb41999971" />
+    </td>
+  </tr>
+</table>
+The web page is responsive, ensuring that the navigation bar and login/logout buttons adjust to fit any screen size.
 
 ## 📺 References
 This project was inspired by and learned from the following YouTube tutorial:
