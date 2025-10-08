@@ -9,20 +9,24 @@ This project features a navigation bar with icons, recipe listings, and a clean,
 
 ### 1. Install dependencies (if you haven’t already)
 
-## 2. Start the development server
-$ live-server public
+### 2. Start the development server
+```bash
+live-server public
+```
 This will serve your website locally so you can view it in the browser.
 
-## 3. Build Tailwind CSS
-$ npm run dev
+### 3. Build Tailwind CSS
+```bash
+npm run dev
+```
 This will compile your Tailwind CSS into the project so styles are applied.
 
 ## ✨ Features
-Responsive navigation bar with icons + text
-Active page highlighting (orange underline)
-Recipe cards with image, title, and description
-Mobile-friendly and fully responsive
-Clean design using Tailwind CSS utilities
+- Responsive navigation bar with icons + text
+- Active page highlighting (orange underline)
+- Recipe cards with image, title, and description
+- Mobile-friendly and fully responsive
+- Clean design using Tailwind CSS utilities
 
 ## 🖼 Example Screenshots
 
