@@ -40,10 +40,10 @@ This will compile your Tailwind CSS into the project so styles are applied.
   </tr>
   <tr>
     <td>
-      <img height="600" alt="large-screen" src="https://github.com/user-attachments/assets/4d4e6f92-058d-4802-972f-072845d25dc6" />
+      <img height="600" alt="large-screen" src="https://github.com/user-attachments/assets/64149a99-62c3-41d7-98e7-3fd803a82a39" />
     </td>
     <td>
-      <img height="600" alt="small-screen" src="https://github.com/user-attachments/assets/fbdfae5a-f055-4ad2-acfa-1cdb41999971" />
+      <img height="600" alt="small-screen" src="https://github.com/user-attachments/assets/da9173ec-1149-4c65-8bf2-b3bebf47c8d4" />
     </td>
   </tr>
 </table>
